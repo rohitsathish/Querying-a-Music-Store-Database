@@ -11,6 +11,6 @@ I have attempted to answer the following 4 questions and created visualizations 
 The schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
 
 <p>
-  <img src="
-<\p>
+  <img src="schema.png">
+</p>
 
